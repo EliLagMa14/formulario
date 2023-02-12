@@ -1,0 +1,69 @@
+.formulario{
+	text-align: center;
+    width: 500px;
+	max-width: 100%;
+    margin: auto;	    margin-top: 30px;
+    padding: 20px;
+    box-shadow: 0 0 20px 1px rgb(0, 0, 0, 0.2);
+	position: relative;
+}
+form{
+    width: 500px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    box-shadow: 0 0 20px 1px rgb(0, 0, 0, 0.2);
+	position: relative;
+}
+table, td{
+    width: 500px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    box-shadow: 0 0 20px 1px rgb(0, 0, 0, 0.2);
+	position: relative; 
+ }
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+
+.contenedor {
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(180deg, #ffde00 0, #ffce00 10%, #ffbb00 20%, #ffa700 30%, #ff9215 40%, #f37b1f 50%, #e36526 60%, #d4522b 70%, #c74130 80%, #bb3334 90%, #b12639 100%);
+}
+
+body{
+    background-image: linear-gradient(180deg, #ffde00 0, #ffce00 10%, #ffbb00 20%, #ffa700 30%, #ff9215 40%, #f37b1f 50%, #e36526 60%, #d4522b 70%, #c74130 80%, #bb3334 90%, #b12639 100%);
+}
+
+select {
+    color: rgb(255, 255, 255);
+    background: rgb(196,110,52);
+    text-align: center;
+    margin: auto;
+    width: 175px;
+    height: 35px;
+}
+
+.panel-1{
+    width: 500px;
+    text-align: center;
+    position: relative;
+    margin: auto;  
+    color: #000000;
+    background-image: linear-gradient(180deg, #ffde00 0, #ffce00 10%, #ffbb00 20%, #ffa700 30%, #ff9215 40%, #f37b1f 50%, #e36526 60%, #d4522b 70%, #c74130 80%, #b12639 100%);
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+            box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    padding: 10px 15px;
+  }
